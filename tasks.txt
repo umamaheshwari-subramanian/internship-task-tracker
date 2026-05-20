@@ -1,3 +1,4 @@
 Internship Task Tracker
 Task 1: Learn Git basics
 Task 2: Prepare daily standup update
+Task 3: Fix login validation bug
